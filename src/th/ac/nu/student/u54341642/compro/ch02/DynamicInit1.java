@@ -4,10 +4,6 @@
  */
 package th.ac.nu.student.u54341642.compro.ch02;
 
-/**
- *
- * @author User
- */
 public class DynamicInit1 {
     public static void main(String[] args) {
         int num1 = Integer.parseInt(args[0]);
